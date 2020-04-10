@@ -32,9 +32,20 @@ chimney cap has failed, and the mortar at the top is washing out and falling dow
 
 ##### hvac
 
+
 * ![hvac-01](../photos/hvac/furnace-and-water-heater-01.jpeg)
 * ![hvac-02](../photos/hvac/furnace-and-water-heater-02.jpeg)
 * ![hvac-03](../photos/hvac/furnace-and-water-heater-03.jpeg)
+* ![furnace-01](../photos/hvac/bryant-furnace-installation-sticker.jpeg)
+* ![furnace-02](../photos/hvac/bryant-furnace-internals-mfg-2006.jpeg)
+* ![furnace-03](../photos/hvac/bryant-furnace-model-serial.jpeg)
+* ![furnace-04](../photos/hvac/bryant-furnace-service-sticker.jpeg)
+
+
+Current Venting
+
+* ![venting-01](../photos/hvac/bryant-furnace-current-venting-to-chimney.jpeg)
+* ![venting-02](../photos/hvac/side-wall-venting-opportunity.jpeg)
 
 ##### electrical
 
@@ -93,11 +104,15 @@ Totals: 375A
 |------------|----|
 |[50Gal Heat Pump](https://www.homedepot.com/p/Rheem-Performance-Platinum-50-gal-10-Year-Hybrid-High-Efficiency-Smart-Tank-Electric-Water-Heater-XE50T10HD50U1/303419574)|1300.00|
 |[50Gal NG Power Vent](https://www.homedepot.com/p/Rheem-Performance-40-Gal-Tall-6-Year-40-000-BTU-Natural-Gas-Power-Vent-Tank-Water-Heater-XG40T06PV40U0/204318424)|800.00|
+|[Tankless](https://www.homedepot.com/p/Rheem-Performance-Platinum-9-5-GPM-Natural-Gas-High-Efficiency-Indoor-Tankless-Water-Heater-ECOH200DVLN-2/304820618)|1300.00|
 
+* Heat Pump will require a 20.83A 240V circuit (need electrician and possible service upgrade)
+* NG unit can swap in and replace existing unit (need to cut hole in side wall to vent, get pro to hook up gas line)
 * The power vent means it can be ducted horizontally out the wall and does not require the chimney.
 * Not sure if the existing water heater can be converted to use a power vent (saw lot's of conflicting opinions on the 'tubes), but in my case, it's moot as the water heater is 13 years old at this point, and I should probably replace it rather than put more money into it.
 
-Q: Upgrade existing gas water heater or replace?
+* [x]: Upgrade existing gas water heater or replace? REPLACE
+* [x]: Replace with 50Gal NG Power Vent $800
 
 
 ##### Furnace
@@ -108,9 +123,8 @@ Q: Upgrade existing gas water heater or replace?
 |[Power Vent Controller](https://www.homedepot.com/p/Field-Controls-Control-Kit-Gas-CK-41F/203206852)|200.00|
 |[Furnace Category IV Venting](https://www.homedepot.com/p/Winchester-80-000-BTU-95-Efficient-Single-Stage-Multi-Positional-Residential-Gas-Furnace-with-ECM-Blower-Motor-TM9E080B12MP12/311370770)|1800.00|
 
-
-Q: Upgrade or replace existing gas furnace? 
-
+* [ ]: Upgrade or replace existing gas furnace? 
+* [ ]: Need pros to come out and take a look and give quotes...
 
 [ ] Have detailed plan, timeline, etc.
 
