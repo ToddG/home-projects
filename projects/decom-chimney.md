@@ -111,8 +111,8 @@ Totals: 375A
 * The power vent means it can be ducted horizontally out the wall and does not require the chimney.
 * Not sure if the existing water heater can be converted to use a power vent (saw lot's of conflicting opinions on the 'tubes), but in my case, it's moot as the water heater is 13 years old at this point, and I should probably replace it rather than put more money into it.
 
-* [x]: Upgrade existing gas water heater or replace? REPLACE
-* [x]: Replace with 50Gal NG Power Vent $800
+* [x] Upgrade existing gas water heater or replace? REPLACE
+* [x] Replace with 50Gal NG Power Vent $800
 
 
 ##### Furnace
@@ -123,8 +123,8 @@ Totals: 375A
 |[Power Vent Controller](https://www.homedepot.com/p/Field-Controls-Control-Kit-Gas-CK-41F/203206852)|200.00|
 |[Furnace Category IV Venting](https://www.homedepot.com/p/Winchester-80-000-BTU-95-Efficient-Single-Stage-Multi-Positional-Residential-Gas-Furnace-with-ECM-Blower-Motor-TM9E080B12MP12/311370770)|1800.00|
 
-* [ ]: Upgrade or replace existing gas furnace? 
-* [ ]: Need pros to come out and take a look and give quotes...
+* [ ] Upgrade or replace existing gas furnace? 
+* [ ] Need pros to come out and take a look and give quotes...
 
 [ ] Have detailed plan, timeline, etc.
 
