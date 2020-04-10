@@ -89,6 +89,7 @@ Totals: 375A
 ##### Water Heaters
 
 |Water Heater|Cost|
+|------------|----|
 |[50Gal Heat Pump](https://www.homedepot.com/p/Rheem-Performance-Platinum-50-gal-10-Year-Hybrid-High-Efficiency-Smart-Tank-Electric-Water-Heater-XE50T10HD50U1/303419574)|1300.00|
 |[50Gal NG Power Vent](https://www.homedepot.com/p/Rheem-Performance-40-Gal-Tall-6-Year-40-000-BTU-Natural-Gas-Power-Vent-Tank-Water-Heater-XG40T06PV40U0/204318424)|800.00|
 
@@ -101,6 +102,7 @@ Q: Upgrade existing gas water heater or replace?
 ##### Furnace
 
 |Component|Cost|
+|---------|----|
 |[Power Vent Adapter](https://www.homedepot.com/p/Field-Controls-Power-Vent-4-in-Outside-Mounted-SWG-4HD/205880995)|412.00|
 |[Power Vent Controller](https://www.homedepot.com/p/Field-Controls-Control-Kit-Gas-CK-41F/203206852)|200.00|
 |[Furnace Category IV Venting](https://www.homedepot.com/p/Winchester-80-000-BTU-95-Efficient-Single-Stage-Multi-Positional-Residential-Gas-Furnace-with-ECM-Blower-Motor-TM9E080B12MP12/311370770)|1800.00|
