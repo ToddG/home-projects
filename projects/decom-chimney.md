@@ -180,32 +180,30 @@ Just talked to my Seattle City Light rep. Got great info:
 * fee for an AM/PM drop/connect is $1K
 * Rep suggested I consult an electrician and they could route the service to a better location farther from the chimney, and upgrade the house wiring, add the circuits for the heat pumps, etc.
 
-[ ] check rating on panel size
-[ ] check rating on meter base
+* [ ] check rating on panel size
+* [ ] check rating on meter base
 
 BTW - If you look at the service photos, the electrical tape is fraying off where it enters the WeatherHead
 
 ##### Aurora Rents
 
-https://blog.aurorarents.com/about/
-Shoreline –  206.368.7368
-**Greenlake –  206.729.7368**
-Lake City –  206.362.7368
 
-25' scaffolding : $77/day
-trailer to haul scaffolding: $40/day
+    https://blog.aurorarents.com/about/
+    Shoreline –  206.368.7368
+    **Greenlake –  206.729.7368**
+    Lake City –  206.362.7368
+    25' scaffolding : $77/day
+    trailer to haul scaffolding: $40/day
 
 ##### Can purchase scaffolding here
 
 https://seattle.craigslist.org/see/for/d/seattle-tons-of-scaffolding/7104283806.html
 
-"""
-Call me for scaffolding questions. Dan 206-399-2936
-There are too many options to give you for dimensions without knowing exactly what you want.
-Frames 45.00 each
-X brace 17.00 each
-Plank 35.00 each
-Wheels 35.00 each
-Screw jacks 15.00 each
-"""
+    Call me for scaffolding questions. Dan 206-399-2936
+    There are too many options to give you for dimensions without knowing exactly what you want.
+    Frames 45.00 each
+    X brace 17.00 each
+    Plank 35.00 each
+    Wheels 35.00 each
+    Screw jacks 15.00 each
 
