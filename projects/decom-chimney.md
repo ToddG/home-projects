@@ -124,15 +124,13 @@ Totals: 375A
 |[Furnace Category IV Venting](https://www.homedepot.com/p/Winchester-80-000-BTU-95-Efficient-Single-Stage-Multi-Positional-Residential-Gas-Furnace-with-ECM-Blower-Motor-TM9E080B12MP12/311370770)|1800.00|
 
 * [ ] Upgrade or replace existing gas furnace? 
-* [ ] Need pros to come out and take a look and give quotes...
-
-[ ] Have detailed plan, timeline, etc.
+* [ ] Need pros to come out and take a look and give quotes
+* [ ] Have detailed plan, timeline, etc.
 
 #### stage 2: stop using chimney
 
-* replace hvac systems
-
-[ ] Chimney is not being used
+* [ ] Replace hvac systems
+* [ ] Chimney is not being used
 
 
 #### stage 3: job site
@@ -146,7 +144,7 @@ Totals: 375A
 * erect scaffolding (attach to side of house)
 * buy & deploy safety lines, harness, hardhat
 
-[ ] Job site is prepped and safe
+* [ ] Job site is prepped and safe
 
 
 #### stage 4: decom chimney
@@ -156,13 +154,13 @@ Totals: 375A
     * patch the roof
 * take down the scaffolding
 
-[ ] Chimney removed
+* [ ] Chimney removed
 
 #### stage 5: wrap up
 * re-connect power if disconnected
 * return borrowed and/or rented equipment
 
-[ ] Power restored, house buttoned up, and all systems operational
+* [ ] Power restored, house buttoned up, and all systems operational
 
 ### notes (most recent first)
 
