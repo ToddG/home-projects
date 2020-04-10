@@ -4,7 +4,8 @@
 
 chimney cap has failed, and the mortar at the top is washing out and falling down.
 
-![chimney](../photos/chimney/chimney01.jpeg)
+* ![chimney](../photos/chimney/chimney01.jpeg)
+* ![loose-bricks](../photos/chimney/loose-bricks-top-left.jpeg)
 
 ## summary
 
