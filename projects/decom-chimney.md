@@ -85,6 +85,30 @@ Totals: 375A
     * Seattle City Light AM/PM
     * Lead time to order parts/components
 
+
+##### Water Heaters
+
+|Water Heater|Cost|
+|[50Gal Heat Pump](https://www.homedepot.com/p/Rheem-Performance-Platinum-50-gal-10-Year-Hybrid-High-Efficiency-Smart-Tank-Electric-Water-Heater-XE50T10HD50U1/303419574)|1300.00|
+|[50Gal NG Power Vent](https://www.homedepot.com/p/Rheem-Performance-40-Gal-Tall-6-Year-40-000-BTU-Natural-Gas-Power-Vent-Tank-Water-Heater-XG40T06PV40U0/204318424)|800.00|
+
+* The power vent means it can be ducted horizontally out the wall and does not require the chimney.
+* Not sure if the existing water heater can be converted to use a power vent (saw lot's of conflicting opinions on the 'tubes), but in my case, it's moot as the water heater is 13 years old at this point, and I should probably replace it rather than put more money into it.
+
+Q: Upgrade existing gas water heater or replace?
+
+
+##### Furnace
+
+|Component|Cost|
+|[Power Vent Adapter](https://www.homedepot.com/p/Field-Controls-Power-Vent-4-in-Outside-Mounted-SWG-4HD/205880995)|412.00|
+|[Power Vent Controller](https://www.homedepot.com/p/Field-Controls-Control-Kit-Gas-CK-41F/203206852)|200.00|
+|[Furnace Category IV Venting](https://www.homedepot.com/p/Winchester-80-000-BTU-95-Efficient-Single-Stage-Multi-Positional-Residential-Gas-Furnace-with-ECM-Blower-Motor-TM9E080B12MP12/311370770)|1800.00|
+
+
+Q: Upgrade or replace existing gas furnace? 
+
+
 [ ] Have detailed plan, timeline, etc.
 
 #### stage 2: stop using chimney
